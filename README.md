@@ -1,2 +1,2 @@
 # topCasaFina-arquitetura
-This project is for learn a little about Bootstrap Framework
+This project is to learn a little about Bootstrap Framework
